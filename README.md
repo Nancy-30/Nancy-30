@@ -5,7 +5,7 @@
 ### 👨‍💻 &nbsp;About Me
 
 🎓 &nbsp;I'm a Computer Science Engineering Undergrad at IIIT Dharwad \
-🏊 &nbsp;I am passionate about Deep Learning, Machine Learning and Web Development, along with a focus on leveraging technology to innovate and solve complex challenges
+🏊 &nbsp;I am passionate about Deep Learning, Machine Learning, Blockchain and Web Development, along with a focus on leveraging technology to innovate and solve complex challenges
 
 <br>
 
