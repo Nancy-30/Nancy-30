@@ -1,64 +1,86 @@
-### Hi there 👋
+### Hi there 👋  
 <br />
 <h1 align="center">Nancy Yadav</h1>
 
-### 👨‍💻 &nbsp;About Me
+### 👩‍💻 &nbsp;About Me  
 
-🎓 &nbsp;I'm a Computer Science Engineering Undergrad at IIIT Dharwad \
-🏊 &nbsp;I am passionate about Deep Learning, Machine Learning, Blockchain and Web Development, along with a focus on leveraging technology to innovate and solve complex challenges
+💼 &nbsp;AI Engineer & Full-Stack Developer – Building intelligent systems and scalable applications.  
+🏢 &nbsp;Founding Engineer at **Vocab.ai** & Former **AI/ML & Full Stack Intern at Siemens**.  
+📄 &nbsp;**IEEE Author** – Published *FGRU-Based Intrusion Detection in SCADA Systems*.  
+🏆 &nbsp;Hackathon Winner – **5th place at Hack2Future**, Top 10 at **PeerlistXReplit Hackathon**.  
+🚀 &nbsp;Specializing in **AI Agents, Multi-Agent Systems, Deep Learning, and Product Development** with expertise in deploying high-impact solutions.  
 
 <br>
 
-### 🛠 &nbsp;Some tools and languages that I've worked with -
-
-
-<br clear="both">
+### 🛠 &nbsp;Skills & Tools  
 
 <div align="center">
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" width="52" alt="tailwindcss logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" width="52" alt="django logo"  /> -->
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="cplusplus logo"  /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="40" width="52" alt="angular logo"  /> -->
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" width="52" alt="ruby logo"  /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" width="52" alt="tensorflow logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" height="40" width="52" alt="framermotion logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" width="52" alt="flask logo"  /> 
-
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" width="52" alt="TailwindCSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" width="52" alt="Flask" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" width="52" alt="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" width="52" alt="TensorFlow" />
 </div>
 
-###
+<br>
+
+### 🚀 &nbsp;Experience  
+
+**AI Engineer & Founding Engineer – Vocab.ai** (Aug 2025 – Present)  
+- Leading **product management & full-stack development**, delivering 3 in-house AI-driven products – *Vani, Disha, Sarathi*.  
+- Built **CRM + RAG-based text analytics platform** used by 5 client accounts.  
+- Working with **LangGraph, MCP, Gemini** for AI agents, model fine-tuning, and deployment.  
+- Mentored interns, reviewed 30+ PRs, authored system diagrams for documentation.  
+
+**AI/ML & Full Stack Intern – Siemens Technology** (Jan 2025 – Jul 2025)  
+- Built 3+ **multi-agent systems** with LangGraph & Azure OpenAI, published 2 packages to PyPI.  
+- Created a **localization platform** using React, FastAPI, Docker, reducing translation time for 2+ teams.  
+- Designed, monitored, and optimized agent workflows using LangGraph & LangFuse.  
+
+<br>
+
+### 📌 &nbsp;Highlighted Projects  
+
+**Scheduling Agent – AMD Hackathon @ IISC (24hrs)**  
+- Multi-agent system with LLaMA 7B to scan calendars, resolve conflicts, and auto-schedule meetings.  
+
+**Darkflow – Hack2Future (5th Place)**  
+- Self-service ML training platform supporting multiple model types, preprocessing, benchmarking & visualizations.  
+
+<br>
+
+### 📊 &nbsp;GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&username=Nancy-30" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&username=Nancy-30" height="150" alt="languages graph"  />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nancy-30&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nancy-30&show_icons=true&theme=tokyonight" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nancy-30&layout=compact&theme=tokyonight" height="150" alt="languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nancy-30&theme=tokyonight" height="150" alt="streak" />
 </div>
 
-<br />
+<br>
 
-###
+### 🌐 &nbsp;Connect with Me  
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nancyadav30/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Nancy-30" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="GitHub" />
+  </a>
+  <a href="mailto:ynancy030@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Email" />
   </a>
 </div>
-
-###
