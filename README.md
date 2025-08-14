@@ -36,21 +36,6 @@
 
 <br>
 
-### 🚀 &nbsp;Experience  
-
-**AI Engineer & Founding Engineer – Vocab.ai** (Aug 2025 – Present)  
-- Leading **product management & full-stack development**, delivering 3 in-house AI-driven products – *Vani, Disha, Sarathi*.  
-- Built **CRM + RAG-based text analytics platform** used by 5 client accounts.  
-- Working with **LangGraph, MCP, Gemini** for AI agents, model fine-tuning, and deployment.  
-- Mentored interns, reviewed 30+ PRs, authored system diagrams for documentation.  
-
-**AI/ML & Full Stack Intern – Siemens Technology** (Jan 2025 – Jul 2025)  
-- Built 3+ **multi-agent systems** with LangGraph & Azure OpenAI, published 2 packages to PyPI.  
-- Created a **localization platform** using React, FastAPI, Docker, reducing translation time for 2+ teams.  
-- Designed, monitored, and optimized agent workflows using LangGraph & LangFuse.  
-
-<br>
-
 ### 📌 &nbsp;Highlighted Projects  
 
 **Scheduling Agent – AMD Hackathon @ IISC (24hrs)**  
